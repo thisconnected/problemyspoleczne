@@ -80,7 +80,7 @@ Uprawniony może domagać się od użytkownika programu komputerowego zniszczeni
 2. Kto posiada, przechowuje lub wykorzystuje urządzenia lub ich komponenty, o których mowa ust. 1 [...]
 
 Ta podstawa prawna była używana do scigania osób przerabiających konsole do gier
-* Konsekwencje prawa autorskiego na oprogramowaniu
+* Konsekwencje prawa autorskiego
 ** Wolne oprogramowanie
 Wolne oprogramowanie (libre, free software) jest oprogramowaniem rozpowszechnianym na warunkach które zezwalaja użytkownikom na używanie oprogramowania w jakimkolwiek celu oraz badanie, zmiany i dystrybucję zmienionych wersji.
 ** Wolne oprogramowanie cd.
@@ -93,7 +93,7 @@ Głownym konsolidacyjnym działaniem ruchu wolnego oprogramowania jest założen
 - Prawo do redystrybucji
 - Prawo do rozwoju i zmiany publicznej wersji
 ** Copyleft
-Copyleft 🄯 jest mechanizmem utrzymywania wolności oprogramowania licencjonwanego taką licencja. Głownie skupia sie na zachowaniu licencji (i praw przez nią dawanych) przy redystrybucji oprogramowania.
+Copyleft  jest mechanizmem utrzymywania wolności oprogramowania licencjonwanego taką licencja. Głownie skupia sie na zachowaniu licencji (i praw przez nią dawanych) przy redystrybucji oprogramowania.
 
 *** Znane licencje Copyleft
 - GNU GPL, LGPL
@@ -108,9 +108,45 @@ Głownym celemi wolnego (lub otwartego) oprogramowanie są:
 - Rozwój projektów społeczności (linux, gnu, webkit)
 - Możliwość własnego rozwoju projektów
 - Bezpieczeństwo
+- Dostęp do oprogramowania
+- Prezerwacja
+** Wolne oprogramowanie
+*** Gdzie jest otwarte oprogramowanie
+** Wolne Oprogramowanie
+Ta prezentacja została wykonana przy użyciu otwartego oprogramowania
+- GNU Emacs z dodatkiem `org-mode` (GNU GPL)
+- TeX Live (Latex Public Project License)
+- Firefox (Mozilla Public License)
+- Linux + GNU (GNU GPL)
+- GNOME project (GNU GPL)      
 
 * Odpowiedzialność zawodowa
-** a
+** Problemy
+Informatyka jest nauka która rozwineła sie bardzo szybko. O pierwszych komputerach zrealizowanych możemy mówić juz w 2 wojnie światowej a w dzisiejszych czasach cięzko oddalić sie od nich nawet na kilka metrów. Połączone ze sobą urządzenia **są** światem w którym żyjemy i nie potrafimy wyobrazić sobie innego świata.
+** Problemy czy cuda?
+- Zdecentralizowany połączony świat
+- Możliwośc kontaku z każda osobą lub grupą w danej chwili
+- Rozpowszechnianie informacji
+- Używanie i tworzenie nowych narządzi
+** Odpowiedzialność
+*** Ze słownika języka polskiego
+obowiązek moralny lub prawny odpowiadania za swoje lub czyjeś czyny
+** Moralność
+Przykład etycznego (lub nie) włamywania do systemów komputerowych
+- kto decyduje co jest etyczne?
+- łamanie barrier
+- czy możemy osiągnąc cel używając "legalnych" lub "etycznych" metod
+** White Hat, Black Hat, Red teaming
+- Red team
+- Bug bounty
+- Prawo vs 2021
+
+You’re Probably Not Red Teaming... And Usually I’m Not, Either [SANS ICS 2018] Deviant Ollam
+https://www.youtube.com/watch?v=mj2iSdBw4-0
+** Whistleblowing
+- Chronione ale nie (Edward Snowden)
+- Dlaczego jest ważne?
+- Dlaczego jest niekomfortowe?    
 * Bibliografia
 - Konwencja o udzielaniu patentów europejskich
 - Digital Milenium Copyright ACT
@@ -120,3 +156,7 @@ Głownym celemi wolnego (lub otwartego) oprogramowanie są:
 - http://prawo.vagla.pl/node/6031
 - https://forumprawne.org/prawo-autorskie/152577-lamanie-zabezpieczen-drm.html
 - https://www.gnu.org/  
+- ODPOWIEDZIALNOŚĆ ZAWODOWA I ETYCZNA ZWIĄZANA Z ROZWOJEM SYSTEMÓW INFORMACYJNYCH, RADOSŁAW ANDERSKI, WYDZIAŁ ELEKTRYCZNY
+* Bibliografia cd.
+- nsa.gov
+- blackhat.com  
