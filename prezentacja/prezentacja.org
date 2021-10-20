@@ -1,0 +1,122 @@
+#+TITLE: Aspekty Prawne Informatyki
+
+#+EMAIL: thisconnected@gmail.com
+#+AUTHOR: Patryk Kaniewski
+
+#+CREATOR: PUSB Skierniewice
+
+#+DESCRIPTION: test
+#+KEYWORDS:
+#+LANGUAGE: pl
+#+latex_class: beamer
+#+OPTIONS: H:2 toc:nil num:t
+#+columns: %45ITEM %10BEAMER_env(Env) %10BEAMER_act(Act) %4BEAMER_col(Col) %8BEAMER_opt(Opt)
+#+beamer_theme: Dresden
+
+#+beamer_color_theme: sidebartab
+#+beamer_font_theme:
+#+beamer_inner_theme:
+#+beamer_outer_theme:
+#+beamer_header:
+
+* Prawa Autorskie
+** Historia Praw Autorskich w Informatyce
+Wiekszość praw autorskich (i majątkowych) dotyczących oprogramowania komputerowego i innych podlegajacych ochronie częsci infromatyki  wywodzi się z prawa "zwykłego". W wiekszości przypadków jest to zdefiniowane lub wzorowane na prawach autorskich utworów literackich.
+
+Opieraja się one głownie na ochronie różnych form wyrażenia danego programu.
+
+** Prawa Autorskie w Polsce
+*** Prawo autorskie (ustawa z 4 lutego 1994 r), Rodział 7 (Art 74-77)
+- Programy komputerowe podlegają ochronie jak utwory literackie, o ile przepisy niniejszego rozdziału nie stanowią inaczej.
+- Ochrona przyznana programowi komputerowemu obejmuje wszystkie formy jego wyrażenia. Idee i zasady będące podstawą jakiegokolwiek elementu programu komputerowego, w tym podstawą łączy, nie podlegają ochronie.
+** Prawa Autorskie w Polsce
+*** DYREKTYWA PARLAMENTU EUROPEJSKIEGO I RADY 2009/24/WE
+W sprawie ochrony prawnej programów komputerowych z dnia 23 kwietnia 2009 r.
+- każdej formy **wyrażenia** programu komputerowego, nie zaś do koncepcji i zasad, na których opierają się programy komputerowe lub wszystkie ich elementy
+** Prawa Autorskie na świecie
+*** Digital Millenium Copyright ACT
+- Głownie skupia się na bezpośredniej i pośredniej odpowiedzialności platform które rozprowadzają treści objęte prawem autorskim
+*** Patenty na oprogramowanie
+Konwencja o udzielaniu patentów europejskich zabrania tworzenia takich patentów "Programów komputerowych"
+- Stany Zjednoczone posiadają ochrone patentową na programy komputerowe
+
+* Prawa wyłaczne
+** Prawa wyłączne
+-  trwałego lub czasowego powielania programu lub jego części
+-  translacji, adaptacji, porządkowania i jakichkolwiek innych modyfikacji programu
+-  dystrybucji programu   
+** Ograniczenia
+- Uprawniony nabywca programu może powielać, dokonywać translacji, adaptacji lub zmian w programie, jeśli jest to konieczne do użycia programu zgodnie z zamierzonym celem
+- Osoba mająca prawo do używania programu komputerowego może sporządzić kopię zapasową w zakresie, w jakim jest to konieczne do takiego używania
+- Osoba taka może też obserwować, badać lub testować funkcjonowanie programu w celu ustalenia koncepcji i zasad, na których opiera się każdy z elementów programu
+** Ograniczenia - Prawa osobiste
+   - autorstwa utworu
+   - oznaczenia utworu swoim nazwiskiem lub pseudonimem albo do udostępniania go anonimowo
+*** Uchylone
+   - **nienaruszalności treści i formy utworu oraz jego rzetelnego wykorzystania**
+   - **decydowania o pierwszym udostępnieniu utworu publiczności**
+   - **nadzoru nad sposobem korzystania z utworu**
+** Ograniczenia cd.
+*** Uchylone
+- wystawa publiczna
+- Odstąpienie twórcy od umowy ze względu na swoje istotne interesy twórcze
+- Twórca może w zbiorowej publikacji swych utworów umieścić utwory, o których publikację zawarł odrębną umowę
+
+** Digital Rights Management
+W ogólnym znaczeniu łamanie jakichkolwiek zabezpieczeń anty-pirackich **powinno** być legalne.
+
+Stwarzanie barier dostępu do licencjonwanego lub sprzedawanego oprogramowania jest nielegalne.
+*** Pragmatycznie
+- Czy DRM pozwala na kontrole dziela po wyjściu z ochrony praw majątkowych?
+- Jeżeli zezwolonie są kopie zapasowe, powielanie, adaptacja i zmiany w programie 
+** DRM cd.
+W 2006 Sony zostało pokonane ws. nielegalnej ochrony praw autorskich (XCP, Media MAX).
+
+*** Art 77^1
+Uprawniony może domagać się od użytkownika programu komputerowego zniszczenia posiadanych przez niego środków technicznych (w tym programów komputerowych), których jedynym przeznaczeniem jest ułatwianie niedozwolonego usuwania lub obchodzenia technicznych zabezpieczeń programu.
+** DRM cd.
+*** Art. 118^1.
+1. Kto wytwarza **urządzenia** lub ich komponenty przeznaczone do niedozwolonego usuwania lub obchodzenia skutecznych technicznych zabezpieczeń przed odtwarzaniem, przegrywaniem lub zwielokrotnianiem utworów lub przedmiotów praw pokrewnych albo dokonuje obrotu takimi urządzeniami lub ich komponentami albo reklamuje je w celu sprzedaży lub najmu [...]
+2. Kto posiada, przechowuje lub wykorzystuje urządzenia lub ich komponenty, o których mowa ust. 1 [...]
+
+Ta podstawa prawna była używana do scigania osób przerabiających konsole do gier
+* Konsekwencje prawa autorskiego na oprogramowaniu
+** Wolne oprogramowanie
+Wolne oprogramowanie (libre, free software) jest oprogramowaniem rozpowszechnianym na warunkach które zezwalaja użytkownikom na używanie oprogramowania w jakimkolwiek celu oraz badanie, zmiany i dystrybucję zmienionych wersji.
+** Wolne oprogramowanie cd.
+Prawo do badania i modyfikacji wymaga dostępności kodu źrodłowego (lub innego odpowiednika w przypadku innym niż oprogramowanie). Dostęp do kodu źrodłowego nie znaczy ze jakieś oprogramowanie jest wolnym oprogramowaniem (przykładem jest Unreal Engine który jest licencjonowanym produktem ale mamy wgląd do kodu źrodłowego i możemy wykonywać zmiany jednak dystrybucja jest ograniczona)
+** Ruch wolnego oprogramowania
+Głownym konsolidacyjnym działaniem ruchu wolnego oprogramowania jest założenie Free Software Foundation oraz Projektu GNU przez Richarda Stallmana.
+** 4 Wolności
+- Prawo do używania oprogramowania w jakimkolwiek celu
+- Prawo do badania i modyfikacji
+- Prawo do redystrybucji
+- Prawo do rozwoju i zmiany publicznej wersji
+** Copyleft
+Copyleft 🄯 jest mechanizmem utrzymywania wolności oprogramowania licencjonwanego taką licencja. Głownie skupia sie na zachowaniu licencji (i praw przez nią dawanych) przy redystrybucji oprogramowania.
+
+*** Znane licencje Copyleft
+- GNU GPL, LGPL
+- FreeBSD
+- Mozilla
+- Chromium
+- Creative Commons (Share-alike)
+** Wolne vs Otwarte oprogramowanie
+Głowną rożnica jest użycie licencji copyleft w wolnym oprogramowaniu a użycie słabszej (legalnie) licencji takiej jak np. X11, Apache, MIT
+** Dlaczego?
+Głownym celemi wolnego (lub otwartego) oprogramowanie są:
+- Rozwój projektów społeczności (linux, gnu, webkit)
+- Możliwość własnego rozwoju projektów
+- Bezpieczeństwo
+
+* Odpowiedzialność zawodowa
+** a
+* Bibliografia
+- Konwencja o udzielaniu patentów europejskich
+- Digital Milenium Copyright ACT
+- DYREKTYWA PARLAMENTU EUROPEJSKIEGO I RADY 2009/24/WE
+- Ustawa o prawie autorskim i prawach pokrewnych
+- https://www.chip.pl/2018/10/lamanie-drm-ow-jest-legalne/
+- http://prawo.vagla.pl/node/6031
+- https://forumprawne.org/prawo-autorskie/152577-lamanie-zabezpieczen-drm.html
+- https://www.gnu.org/  
