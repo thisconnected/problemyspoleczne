@@ -148,6 +148,7 @@ https://www.youtube.com/watch?v=mj2iSdBw4-0
 - Dlaczego jest ważne?
 - Dlaczego jest niekomfortowe?    
 * Bibliografia
+** Bibliografia
 - Konwencja o udzielaniu patentów europejskich
 - Digital Milenium Copyright ACT
 - DYREKTYWA PARLAMENTU EUROPEJSKIEGO I RADY 2009/24/WE
@@ -157,6 +158,6 @@ https://www.youtube.com/watch?v=mj2iSdBw4-0
 - https://forumprawne.org/prawo-autorskie/152577-lamanie-zabezpieczen-drm.html
 - https://www.gnu.org/  
 - ODPOWIEDZIALNOŚĆ ZAWODOWA I ETYCZNA ZWIĄZANA Z ROZWOJEM SYSTEMÓW INFORMACYJNYCH, RADOSŁAW ANDERSKI, WYDZIAŁ ELEKTRYCZNY
-* Bibliografia cd.
+** Bibliografia cd.
 - nsa.gov
 - blackhat.com  
